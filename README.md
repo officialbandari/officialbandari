@@ -1,9 +1,9 @@
-🌱 I am currently learning MERN Stack <br>
+🌱 I am currently learning AWS&AZURE&DOCKER <br>
 👯 I am open to work as Full Stack Web Developer <br>
 🐾 I spend my free time helping animals and gardening <br>
 💭 Motivation : Life begins at the end of confort zone
-🐾 I spend my free time helping animals, gardening exploring market <br>
-💭 Motivation : Life begins at the end of confort zone <br>
+🐾 I spend my free time with friends... <br>
+💭 Motivation : if you want success step in face issues <br>
 
 ## 🛠  Skill Set
 <p align="center">
