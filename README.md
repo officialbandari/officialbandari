@@ -3,7 +3,7 @@
 🐾 I spend my free time helping animals and gardening <br>
 💭 Motivation : Life begins at the end of confort zone
 🐾 I spend my free time with friends... <br>
-💭 Motivation : if you want success step in face issues <br>
+💭 Motivation : if you want success step in & face issues <br>
 
 ## 🛠  Skill Set
 <p align="center">
