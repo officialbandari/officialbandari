@@ -1,6 +1,6 @@
 🌱 I am currently learning AWS&AZURE&DOCKER <br>
 👯 I am open to work as Full Stack Web Developer <br>
-💭 Motivation : Life begins at the end of confort zone
+💭 Motivation : Life begins at the end of confort zone<br>
 🐾 I spend my free time with friends... <br>
 💭 Motivation : if you want success step in & face issues <br>
 
