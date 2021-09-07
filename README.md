@@ -3,7 +3,7 @@
 👯 I am open to work as Full Stack Web Developer <br>
 🐾 I spend my free time with friends... <br>
 💭 Motivation  : Life begins at the end of confort zone<br>
-               : if you want success step in & face issues <br>
+      
 
 ## 🛠  Skill Set
 <p align="center">
