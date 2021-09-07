@@ -28,9 +28,9 @@
  <br>
 
  ## 🤖 Stats
-![Officialbandari GitHub stats](https://github.com/officialbandari?tab=repositories)<br>
+[Officialbandari GitHub stats](https://github.com/officialbandari?tab=repositories)<br>
 <br>
 <br>
-![Top Langs](https://github.com/officialbandari?tab=repositories)
+[Top Langs](https://github.com/officialbandari?tab=repositories)
 <br>
 <br>
