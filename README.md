@@ -1,36 +1,39 @@
-## Hi, am **PONNA KRISHNA BANDARI** from Hyderabad, am an aspiring FullStack Developer, I love to build web pages.
-🌱 I am currently learning AWS&AZURE&DOCKER <br>
-👯 I am open to work as Full Stack Web Developer <br>
-🐾 I spend my free time with friends... <br>
-💭 Motivation  : Life begins at the end of confort zone<br>
-      
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=officialbandari6.officialbandari6)
+# Hi there 👋
+I am Ponna Krishna Bandari from Hyderabad, India. I am currently learning full stack web development at ZPHS School. 
+- 😄 Pronouns: He/His or TeamMaker😉
+- 🌱 I’m currently learning and building projects using Mern Stack
+- 👯 I’m actively looking for oppurtunities in full stack web development. 
+- 🌱 I’m currently learning AWS with DevOps...
 
-## 🛠  Skill Set
-<p align="center">
- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
- <p/>
-<p/>
+- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉 
+ 
+# Tech & Tools Preference
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-<br>
 
-## 📫  Contact me at 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/ponnakrishna-bandari-6879391a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:officialbandari6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-</a><br>&nbsp;
 
- <br>
+# Git Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialbandari&layout=compact)](https://github.com/officialbandari/github-readme-stats)<br />
+![Bandari's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialbandari&show_icons=true&theme=tokyonight)
 
- ## 🤖 Stats
-[Officialbandari GitHub stats](https://github.com/officialbandari?tab=repositories)<br>
-<br>
-<br>
-[Top Langs](https://github.com/officialbandari?tab=repositories)
-<br>
-<br>
+
+## 📫 Reach out to me! <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='20'>](https://hashnode.com/@officialbandari6) Hashnode <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ponnakrishna-bandari-6879391a4/) Linked In <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://officialbandari.github.io./)  Portfolio
+<!--
+**ranjithkumark8/ranjithkumark8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithkumark8&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=black">
+-->
