@@ -19,7 +19,7 @@ I am Ponna Krishna Bandari from Hyderabad, India. I am currently learning full s
 
 
 ## 📫 Reach out to me! <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='20'>](https://hashnode.com/@officialbandari6) Hashnode <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='20'>](https://hashnode.com/@BandariKrishna) Hashnode <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ponnakrishna-bandari-6879391a4/) Linked In <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://officialbandari.github.io./)  Portfolio
 <!--
